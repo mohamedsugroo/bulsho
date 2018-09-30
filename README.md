@@ -5,6 +5,11 @@
 npm install
 ```
 
+### Compiles and minifies for production
+```
+create secret.js file
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -19,4 +24,4 @@ npm run build
 ```
 npm run lint
 ```
-# bulsho
+### the end
